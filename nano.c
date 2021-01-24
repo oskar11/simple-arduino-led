@@ -1,12 +1,12 @@
-const pinnum = 2;
+const ledstrip = 2;
  
 void setup() {                
-  pinMode(pinnum, OUTPUT);     
+  pinMode(ledstrip, OUTPUT);     
 }
  
 void loop() {
-  digitalWrite(led, HIGH);   
+  digitalWrite(ledstrip, HIGH);   
   delay(1000);               
-  digitalWrite(led, LOW);    
+  digitalWrite(ledstrip, LOW);    
   delay(1000);               
 }
