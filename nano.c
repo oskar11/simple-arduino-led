@@ -1,4 +1,4 @@
-const ledstrip = 2;
+int ledstrip = 2;
  
 void setup() {                
   pinMode(ledstrip, OUTPUT);     
