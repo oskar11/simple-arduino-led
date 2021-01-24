@@ -1,2 +1,2 @@
 # simple-arduino-led
-arduino test for led
+testing led strip using arduino
